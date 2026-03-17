@@ -1,4 +1,14 @@
 {
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Admin",
+            "lastName": "User",
+            "email": "admin@example.com",
+            "phone": "+994502313211",
+            "password": "Admin123!"
+        }
+    ],
     "movies": [
         {
             "id": "6809f2e687f15d5253eeea86",
